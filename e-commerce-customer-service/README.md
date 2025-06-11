@@ -1,7 +1,5 @@
 # E-commerce Customer Service for order management
 
-WIP: This project is currently not working properly.Latest release of AG2 0.9 introduced minor issues which will be fixed as soon as possible.
-
 <!-- [Overall Description, authorship/references,] -->
 
 - By [yiranwu0](https://github.com/yiranwu0)
